@@ -115,6 +115,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LivanAG&color=6DB33F&style=flat-square&label=Profile+views" />
-</p>
